@@ -2,7 +2,7 @@
 <addon id="script.module.cssutils"
        name="cssutils"
        version="1.0"
-       provider-name="zero">
+       provider-name="">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
